@@ -10,4 +10,4 @@ public class SpaceCatsMarketApplication {
         SpringApplication.run(SpaceCatsMarketApplication.class, args);
     }
 
-}
+} 
